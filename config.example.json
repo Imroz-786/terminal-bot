@@ -1,0 +1,6 @@
+{
+  "GROQ_API_KEY": "gsk_your_groq_api_key_here",
+  "BOT_PASSWORD": "your_bot_password",
+  "GROUP_ID": "your_whatsapp_group_id@g.us",
+  "AUTHORIZED_ID": "your_whatsapp_id@lid"
+}

@@ -1,0 +1,9 @@
+.env
+bot-config.json
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
+*.backup.js
+*.log
+ecosystem.config.js
+core.*
